@@ -1,0 +1,8 @@
+# File tọa độ 
+coordinates.js
+
+# File log
+*.log
+
+#Thư mục node_modules
+node_modules/

@@ -1,0 +1,40 @@
+<!-- SECTION: WEATHER -->
+<section id="weather-section" class="tab-section">
+  <div class="card weather-card">
+    <div class="weather-content">
+      <div class="weather-left">
+        <div id="weather-temp" class="temp-large"></div>
+        <p id="weather-description" class="description"></p>
+        <div id="weather-stats">
+          <p>
+            <img src="image/humidity.png" width="20" />
+            <span id="humidity"></span>
+          </p>
+          <p>
+            <img src="image/wind.png" width="20" />
+            <span id="wind"></span>
+          </p>
+          <p>
+            <img src="image/pressure.png" width="20" />
+            <span id="pressure"></span>
+          </p>
+        </div>
+      </div>
+      <div class="weather-right">
+        <img id="weather-icon" src="image/light-rain.png" alt="Weather Icon" />
+      </div>
+    </div>
+  </div>
+
+  <!-- Hourly Forecast -->
+  <div class="card">
+    <h2 class="subtitle">Hourly Forecast</h2>
+    <canvas id="hourlyChart"></canvas>
+  </div>
+
+  <!-- 6-Day Forecast -->
+  <div class="card">
+    <h2 class="subtitle">Forecast for the Next 6 Days</h2>
+    <div class="forecast-grid"></div>
+  </div>
+</section>
