@@ -1,24 +1,24 @@
-* Phu Quoc Weather Forecast
+1/ Phu Quoc Weather Forecast
 Phu Quoc Weather Forecast is an individual web project that shows real-time weather information for Phu Quoc Island, Vietnam.
 
-* Live demo: https://johanna-nguyen.github.io/PhuQuocWeatherForecast/
+2/ Live demo: https://johanna-nguyen.github.io/PhuQuocWeatherForecast/
 
-* Features
+3/ Features
 - Weather forecast
 - UV index
 - Air pollution data
 - Interactive map
 - Responsive UI
 
-* Technologies
+4/ Technologies
 - HTML, CSS, JavaScript, Nodejs
 - Open-Meteo API (public)
 - OpenWeatherMap API
 - Git, GitHub, GitHub Pages
 
-* API Notes
+5/ API Notes
 - Open-Meteo: no API key required
 - OpenWeatherMap: API key used for learning/demo purposes only
 
-* Author
+6/ Author
 Johanna Nguyen – Individual Project
